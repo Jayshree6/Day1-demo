@@ -1,4 +1,4 @@
 # Tour and Travel website 
-This is my first git repository.
+This is the team project
 <br>
 Author-Jayashree 
